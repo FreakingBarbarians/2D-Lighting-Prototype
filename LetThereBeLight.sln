@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetThereBeLight.CSharp", "LetThereBeLight.CSharp.csproj", "{714C7DF4-8C51-ACA1-63AF-B9E09F4525AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetThereBeLight.CSharp.Editor", "LetThereBeLight.CSharp.Editor.csproj", "{1577DDC9-4C7C-16CE-5683-C7D4E028ADB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714C7DF4-8C51-ACA1-63AF-B9E09F4525AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714C7DF4-8C51-ACA1-63AF-B9E09F4525AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714C7DF4-8C51-ACA1-63AF-B9E09F4525AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714C7DF4-8C51-ACA1-63AF-B9E09F4525AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1577DDC9-4C7C-16CE-5683-C7D4E028ADB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1577DDC9-4C7C-16CE-5683-C7D4E028ADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1577DDC9-4C7C-16CE-5683-C7D4E028ADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1577DDC9-4C7C-16CE-5683-C7D4E028ADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
